@@ -1,0 +1,18 @@
+{
+  "name": "native-rating-js-debug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/serve.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/serve.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@shipengine/connect-native-rating-api": "^3.0.0",
+    "@shipengine/connect-runtime": "^1.1.0",
+    "express": "^4.18.2"
+  }
+}
